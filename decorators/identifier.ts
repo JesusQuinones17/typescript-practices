@@ -10,5 +10,5 @@ function identifier(className: string) {
   class TestIdentifier {}
   
   const test1 = new TestIdentifier();
-  console.log(test1['identify']()); // Test-example
+  console.log(test1['identify']()); 
   
